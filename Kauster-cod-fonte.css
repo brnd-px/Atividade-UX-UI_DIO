@@ -1,0 +1,1311 @@
+/* Página WEB - Kauster */
+
+box-sizing: border-box;
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #1B1C24;
+border: 1px solid #B3B3B3;
+
+
+/* Footer */
+
+position: absolute;
+width: 1248px;
+height: 64px;
+left: 96px;
+top: 962px;
+
+
+
+/* Sobre nós */
+
+position: absolute;
+width: 80px;
+height: 27.93px;
+left: 307px;
+top: 962px;
+
+font-family: 'Fira Sans Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #75AFCB;
+
+
+
+/* Informações legais */
+
+position: absolute;
+width: 128px;
+height: 27.93px;
+left: 307px;
+top: 989.93px;
+
+font-family: 'Fira Sans Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #75AFCB;
+
+
+
+/* Copyright© 2026 */
+
+position: absolute;
+width: 128px;
+height: 27.93px;
+left: 656px;
+top: 998.07px;
+
+font-family: 'Fira Sans Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #E0E0E7;
+
+
+
+/* Contato: email@example  */
+
+position: absolute;
+width: 106px;
+height: 51.2px;
+left: 1027px;
+top: 972.47px;
+
+font-family: 'Fira Sans Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+
+color: #E0E0E7;
+
+
+
+/* Ajuda Dúvidas Frequentes */
+
+position: absolute;
+width: 128px;
+height: 51.2px;
+left: 1216px;
+top: 972.47px;
+
+font-family: 'Fira Sans Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+
+color: #75AFCB;
+
+
+
+/* Institucional */
+
+position: absolute;
+width: 128px;
+height: 27.93px;
+left: 96px;
+top: 962px;
+
+font-family: 'Fira Sans Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #75AFCB;
+
+
+
+/* Redes sociais */
+
+position: absolute;
+width: 195px;
+height: 27.93px;
+left: 96px;
+top: 989.93px;
+
+font-family: 'Fira Sans Condensed';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #75AFCB;
+
+
+
+/* Header */
+
+position: absolute;
+width: 1440px;
+height: 156px;
+left: 0px;
+top: 0px;
+
+
+
+/* Frame 1 */
+
+position: absolute;
+width: 1440px;
+height: 120px;
+left: calc(50% - 1440px/2);
+top: calc(50% - 120px/2 - 452px);
+
+background: linear-gradient(179.68deg, rgba(255, 252, 216, 0.12) 0.28%, rgba(146, 145, 129, 0.12496) 86.04%, rgba(24, 25, 32, 0.1305) 99.72%);
+
+
+/* pesquisa */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 336px;
+height: 32px;
+left: 941px;
+top: 70px;
+
+background: #FFFCD8;
+border: 3px solid #E7E0E0;
+border-radius: 5px;
+
+
+/* Pesquisa */
+
+position: absolute;
+width: 81px;
+height: 24px;
+left: 29px;
+top: calc(50% - 24px/2);
+
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* idêntico à altura da caixa */
+
+color: #000000;
+
+opacity: 0.35;
+
+
+/* Vector */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 10px;
+top: calc(50% - 16px/2);
+
+border: 2px solid #1B1C24;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 89.44%;
+top: 4.69%;
+bottom: 89.84%;
+
+border: 2px solid #75AFCB;
+
+
+/* Botões */
+
+position: absolute;
+width: 60px;
+height: 32px;
+left: 1284px;
+top: 70px;
+
+background: #75AFCC;
+border-radius: 5px;
+
+
+/* Vector */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: calc(50% - 16px/2);
+top: calc(50% - 16px/2);
+
+border: 2px solid #1B1C24;
+
+
+/* Inicio */
+
+position: absolute;
+width: 88px;
+height: 48px;
+left: 202px;
+top: 56px;
+
+
+
+/* HomeOutline */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 202px;
+top: 56px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 2px solid #75AFCB;
+
+
+/* Inicio */
+
+position: absolute;
+width: 40px;
+height: 19px;
+left: calc(50% - 40px/2 - 450px);
+top: calc(50% - 19px/2 - 419.5px);
+
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+
+color: #75AFCB;
+
+
+
+/* Playlist */
+
+position: absolute;
+width: 103px;
+height: 42px;
+left: 340px;
+top: 62px;
+
+
+
+/* Playlists */
+
+position: absolute;
+width: 62px;
+height: 19px;
+left: calc(50% - 62px/2 - 308px);
+top: calc(50% - 19px/2 - 417.5px);
+
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+
+color: #75AFCB;
+
+
+
+/* CollectionOutline */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 340px;
+top: 62px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 20%;
+bottom: 5%;
+
+border: 2px solid #75AFCB;
+
+
+/* Amigos */
+
+position: absolute;
+width: 103px;
+height: 48px;
+left: 493px;
+top: 59px;
+
+
+
+/* Amigos */
+
+position: absolute;
+width: 53px;
+height: 19px;
+left: calc(50% - 53px/2 - 150.5px);
+top: calc(50% - 19px/2 - 418.5px);
+
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+
+color: #75AFCB;
+
+
+
+/* UserGroupOutline */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 493px;
+top: 59px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 16.67%;
+bottom: 16.67%;
+
+border: 2px solid #75AFCB;
+
+
+/* Local */
+
+position: absolute;
+width: 104px;
+height: 40px;
+left: 728px;
+top: 64px;
+
+
+
+/* Curitiba */
+
+position: absolute;
+width: 61.55px;
+height: 19px;
+left: 770.45px;
+top: 84px;
+
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+
+color: #75AFCB;
+
+
+
+/* Local */
+
+position: absolute;
+left: 50.56%;
+right: 46.5%;
+top: 6.25%;
+bottom: 89.84%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 12.5%;
+bottom: 10.48%;
+
+border: 2px solid #75AFCB;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 33.33%;
+bottom: 41.67%;
+
+border: 2px solid #75AFCB;
+
+
+/* Caminho */
+
+position: absolute;
+width: 112px;
+height: 24px;
+left: 96px;
+top: 132px;
+
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #75AFCB;
+
+
+
+/* Perfil Usuário */
+
+position: absolute;
+left: 90%;
+right: 7.5%;
+top: 11.72%;
+bottom: 84.77%;
+
+border: 2px solid #75AFCB;
+
+
+/* Ultimas atualizações */
+
+position: absolute;
+width: 1248px;
+height: 235px;
+left: 96px;
+top: 165px;
+
+
+
+/* Últimas atualizações */
+
+position: absolute;
+width: 344px;
+height: 43px;
+left: 97px;
+top: 165px;
+
+font-family: 'Marko One';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 43px;
+/* idêntico à altura da caixa */
+
+color: #E0E0E7;
+
+
+
+/* Rock In Rio: */
+
+position: absolute;
+width: 128px;
+height: 40px;
+left: 312px;
+top: 224px;
+
+font-family: 'Marvel';
+font-style: italic;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+
+color: #E0E0E7;
+
+
+
+/* Meus interesses: */
+
+position: absolute;
+width: 200px;
+height: 40px;
+left: 944px;
+top: 223px;
+
+font-family: 'Marvel';
+font-style: italic;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+
+color: #E0E0E7;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 6.67%;
+right: 80%;
+top: 20.31%;
+bottom: 60.94%;
+
+border: 2px solid #75AFCB;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.56%;
+right: 36.11%;
+top: 20.31%;
+bottom: 60.94%;
+
+border: 2px solid #75AFCB;
+
+
+/* Festival inicia no próximo fim de semana e promete movimentar a cidade do rock! */
+
+position: absolute;
+width: 376px;
+height: 64px;
+left: 312px;
+top: 274px;
+
+font-family: 'Marvel';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #E0E0E7;
+
+
+
+/* As bandas Avenged Sevenfold, Bring Me The Horizon, Bad Omens e mais 5 anunciaram shows próximos da sua cidade. */
+
+position: absolute;
+width: 400px;
+height: 88px;
+left: 944px;
+top: 269px;
+
+font-family: 'Marvel';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #E0E0E7;
+
+
+
+/* Clique e saiba mais */
+
+position: absolute;
+width: 160px;
+height: 32px;
+left: 312px;
+top: 338px;
+
+font-family: 'Marvel';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #75AFCB;
+
+
+
+/* Clique e saiba mais */
+
+position: absolute;
+width: 160px;
+height: 32px;
+left: 944px;
+top: 361px;
+
+font-family: 'Marvel';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #75AFCB;
+
+
+
+/* Social */
+
+position: absolute;
+width: 1245px;
+height: 251px;
+left: 96px;
+top: 582px;
+
+
+
+/* TOP5 */
+
+position: absolute;
+width: 592px;
+height: 251px;
+left: 96px;
+top: 582px;
+
+
+
+/* Ver mais */
+
+position: absolute;
+width: 160px;
+height: 32px;
+left: 312px;
+top: 778px;
+
+font-family: 'Marvel';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #75AFCB;
+
+
+
+/* Minhas musicas e clipes mais ouvidos na ultima semana. */
+
+position: absolute;
+width: 376px;
+height: 64px;
+left: 312px;
+top: 714px;
+
+font-family: 'Marvel';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #E0E0E7;
+
+
+
+/* Meu top 5: */
+
+position: absolute;
+width: 128px;
+height: 40px;
+left: 312px;
+top: 665px;
+
+font-family: 'Marvel';
+font-style: italic;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+
+color: #E0E0E7;
+
+
+
+/* Social */
+
+position: absolute;
+width: 100px;
+height: 43px;
+left: 96px;
+top: 582px;
+
+font-family: 'Marko One';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 43px;
+/* idêntico à altura da caixa */
+
+color: #E0E0E7;
+
+
+
+/* Capa Musicas */
+
+position: absolute;
+width: 192px;
+height: 192px;
+left: 96px;
+top: 641px;
+
+
+
+/* Musica5 */
+
+position: absolute;
+left: 6.67%;
+right: 88.89%;
+top: 62.6%;
+bottom: 31.15%;
+
+border: 2px solid #75AFCB;
+
+
+/* Musica4 */
+
+position: absolute;
+left: 6.67%;
+right: 88.89%;
+top: 75.1%;
+bottom: 18.65%;
+
+border: 2px solid #75AFCB;
+
+
+/* Musica3 */
+
+position: absolute;
+left: 15.56%;
+right: 80%;
+top: 62.6%;
+bottom: 31.15%;
+
+border: 2px solid #75AFCB;
+
+
+/* Musica2 */
+
+position: absolute;
+left: 15.56%;
+right: 80%;
+top: 75.1%;
+bottom: 18.65%;
+
+border: 2px solid #75AFCB;
+
+
+/* Musica1 */
+
+position: absolute;
+left: 11.11%;
+right: 84.44%;
+top: 68.85%;
+bottom: 24.9%;
+
+border: 2px solid #75AFCB;
+
+
+/* OQMEO */
+
+position: absolute;
+width: 613px;
+height: 192px;
+left: 728px;
+top: 641px;
+
+
+
+/* BANNER */
+
+position: absolute;
+width: 192px;
+height: 192px;
+left: 728px;
+top: 641px;
+
+
+
+/* OQMEO */
+
+position: absolute;
+left: 50.56%;
+right: 36.11%;
+top: 62.6%;
+bottom: 18.65%;
+
+border: 2px solid #75AFCB;
+
+
+/* Frame 3 */
+
+position: absolute;
+width: 174px;
+height: 120px;
+left: 737px;
+top: 675px;
+
+background: #1B1C24;
+
+
+/* Banner escrito “O que meus amigos estão ouvindo” */
+
+position: absolute;
+width: 174px;
+height: 120px;
+left: 737px;
+top: 675px;
+
+font-family: 'Fira Sans';
+font-style: italic;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #75AFCB;
+
+
+
+/* Ver mais */
+
+position: absolute;
+width: 194px;
+height: 24px;
+left: calc(50% - 194px/2 + 316px);
+top: calc(50% - 24px/2 + 309px);
+
+font-family: 'Fira Code';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+text-align: center;
+
+color: #75AFCB;
+
+
+
+/* Carol */
+
+position: absolute;
+width: 402px;
+height: 38px;
+left: 939px;
+top: 643px;
+
+
+
+/* msc */
+
+position: absolute;
+width: 193.03px;
+height: 37.21px;
+left: 1147.97px;
+top: 643.79px;
+
+
+
+/* Player */
+
+position: absolute;
+width: 40.43px;
+height: 37.21px;
+left: 1147.97px;
+top: 643.79px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 80.78%;
+right: 18.43%;
+top: 64.02%;
+bottom: 34.75%;
+
+border: 2px solid #FFFCD8;
+
+
+/* Vector */
+
+position: absolute;
+left: 79.72%;
+right: 17.47%;
+top: 62.87%;
+bottom: 33.5%;
+
+border: 2px solid #FFFCD8;
+
+
+/* Dracula - Tame Impala fea... */
+
+position: absolute;
+width: 153.62px;
+height: 31.63px;
+left: 1187.38px;
+top: 644.72px;
+
+font-family: 'Galdeano';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 17px;
+text-align: center;
+
+color: #75AFCB;
+
+
+
+/* Amigo1 */
+
+position: absolute;
+left: 65.21%;
+right: 32.02%;
+top: 62.79%;
+bottom: 33.57%;
+
+border: 2px solid #75AFCB;
+
+
+/* Carol P. */
+
+position: absolute;
+width: 135.32px;
+height: 22.33px;
+left: 996.72px;
+top: 649.37px;
+
+font-family: 'Fira Sans';
+font-style: italic;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #75AFCB;
+
+
+
+/* Oliver */
+
+position: absolute;
+width: 400px;
+height: 40px;
+left: 939px;
+top: 697px;
+
+
+
+/* msc */
+
+position: absolute;
+width: 189.47px;
+height: 39.02px;
+left: 1149.53px;
+top: 697.98px;
+
+
+
+/* Player */
+
+position: absolute;
+width: 40.1px;
+height: 39.02px;
+left: 1149.53px;
+top: 697.98px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 80.88%;
+right: 18.35%;
+top: 69.37%;
+bottom: 29.34%;
+
+border: 2px solid #FFFCD8;
+
+
+/* Vector */
+
+position: absolute;
+left: 79.83%;
+right: 17.39%;
+top: 68.16%;
+bottom: 28.03%;
+
+border: 2px solid #FFFCD8;
+
+
+/* Sulfur - LANDMVRKS */
+
+position: absolute;
+width: 144.36px;
+height: 15.61px;
+left: 1194.64px;
+top: 708.71px;
+
+font-family: 'Galdeano';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 17px;
+text-align: center;
+
+color: #75AFCB;
+
+
+
+/* Oliver */
+
+position: absolute;
+width: 136.34px;
+height: 23.41px;
+left: 995.14px;
+top: 705.78px;
+
+font-family: 'Fira Sans';
+font-style: italic;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #75AFCB;
+
+
+
+/* Amigo2 */
+
+position: absolute;
+left: 65.21%;
+right: 32.01%;
+top: 68.07%;
+bottom: 28.12%;
+
+border: 2px solid #75AFCB;
+
+
+/* Mario */
+
+position: absolute;
+width: 400px;
+height: 40px;
+left: 939px;
+top: 753px;
+
+
+
+/* msc */
+
+position: absolute;
+width: 190.57px;
+height: 40px;
+left: 1148.43px;
+top: 753px;
+
+
+
+/* Player */
+
+position: absolute;
+width: 39.7px;
+height: 40px;
+left: 1148.43px;
+top: 753px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 80.8%;
+right: 18.43%;
+top: 74.77%;
+bottom: 23.9%;
+
+border: 2px solid #FFFCD8;
+
+
+/* Vector */
+
+position: absolute;
+left: 79.75%;
+right: 17.49%;
+top: 73.54%;
+bottom: 22.56%;
+
+border: 2px solid #FFFCD8;
+
+
+/* Um minuto para o f... */
+
+position: absolute;
+width: 150.87px;
+height: 16px;
+left: 1188.13px;
+top: 765px;
+
+font-family: 'Galdeano';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 17px;
+text-align: center;
+
+color: #75AFCB;
+
+
+
+/* Mario */
+
+position: absolute;
+width: 138.96px;
+height: 24px;
+left: 994.58px;
+top: 760px;
+
+font-family: 'Fira Sans';
+font-style: italic;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #75AFCB;
+
+
+
+/* Amigo3 */
+
+position: absolute;
+left: 65.21%;
+right: 32.03%;
+top: 73.54%;
+bottom: 22.56%;
+
+border: 2px solid #75AFCB;
+
+
+/* Banners centrais */
+
+position: absolute;
+width: 1037px;
+height: 170px;
+left: 307px;
+top: 426px;
+
+
+
+/* BANNER */
+
+position: absolute;
+width: 616px;
+height: 168px;
+left: 728px;
+top: 428px;
+
+
+
+/* Sujestao_playlist */
+
+position: absolute;
+left: 50.56%;
+right: 6.67%;
+top: 41.8%;
+bottom: 41.8%;
+
+border: 2px solid #75AFCB;
+
+
+/* Frame 3 */
+
+position: absolute;
+width: 570.93px;
+height: 140px;
+left: 756.17px;
+top: 435px;
+
+background: #1B1C24;
+
+
+/* Banner com sugestões de playlists baseadas nas playlists criadas */
+
+position: absolute;
+width: 558.25px;
+height: 105px;
+left: 756.88px;
+top: 457.75px;
+
+font-family: 'Fira Sans';
+font-style: italic;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+text-decoration-line: underline;
+
+color: #75AFCB;
+
+
+
+/* BANNER */
+
+position: absolute;
+width: 405px;
+height: 168px;
+left: 307px;
+top: 426px;
+
+
+
+/* Calendario */
+
+position: absolute;
+left: 21.32%;
+right: 50.56%;
+top: 41.6%;
+bottom: 41.99%;
+
+border: 2px solid #75AFCB;
+
+
+/* Frame 3 */
+
+position: absolute;
+width: 375.37px;
+height: 140px;
+left: 325.52px;
+top: 433px;
+
+background: #1B1C24;
+
+
+/* Calendário com seus eventos musicais/lançamentos salvos */
+
+position: absolute;
+width: 368px;
+height: 106px;
+left: calc(50% - 368px/2 - 210px);
+top: calc(50% - 106px/2 - 3px);
+
+font-family: 'Fira Sans';
+font-style: italic;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+text-decoration-line: underline;
+
+color: #75AFCB;
+
