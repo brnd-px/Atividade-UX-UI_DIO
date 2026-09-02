@@ -1,0 +1,256 @@
+/* Orientações */
+
+position: absolute;
+width: 2527px;
+height: 810px;
+
+
+
+/* Logo da página que ao clicar leva ao inicio, mas ao colocar o mouse em cima abre o dropdown com as páginas:  Inicio, Playlists, Amigos, Configurações, Vincular APPs, Log out e Sobre nós */
+
+position: absolute;
+width: 408px;
+height: 240px;
+
+font-family: 'Arial Rounded MT Bold';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Logo da página que ao clicar leva ao inicio, mas ao colocar o mouse em cima abre o dropdown com as páginas:  Inicio, Playlists, Amigos, Configurações, Vincular APPs, Log out e Sobre nós <-> Vector */
+
+position: absolute;
+width: 306px;
+height: 50px;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 300px;
+height: 44px;
+
+border: 3px solid #2673DD;
+
+
+/* Ellipse */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 12px;
+height: 12px;
+
+background: #FFFFFF;
+border: 3px solid #2673DD;
+
+
+/* Imagem Rock In Rio */
+
+position: absolute;
+width: 230px;
+height: 28px;
+
+font-family: 'Arial Rounded MT Bold';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+/* idêntico à altura da caixa */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Imagem Rock In Rio <-> Vector */
+
+position: absolute;
+width: 156px;
+height: 12px;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 150px;
+height: 6px;
+
+border: 3px solid #2673DD;
+
+
+/* Ellipse */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 12px;
+height: 12px;
+
+background: #FFFFFF;
+border: 3px solid #2673DD;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 250px;
+height: 28px;
+
+
+
+/* Imagens das musicas */
+
+position: absolute;
+width: 250px;
+height: 28px;
+
+font-family: 'Arial Rounded MT Bold';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+/* idêntico à altura da caixa */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 1 <-> Capa Musicas */
+
+position: absolute;
+width: 156px;
+height: 135px;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 150px;
+height: 129px;
+
+border: 3px solid #2673DD;
+
+
+/* Ellipse */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 12px;
+height: 12px;
+
+background: #FFFFFF;
+border: 3px solid #2673DD;
+
+
+/* Foto de perfil do Usuário logado no sistema. Ao clicar abrir o dropdown com as opções: Editar Perfil, Personalizar página e Log Out. Se não estiver logado, aparecer a opção de login */
+
+position: absolute;
+width: 434px;
+height: 252px;
+
+font-family: 'Arial Rounded MT Bold';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Vector <-> Foto de perfil do Usuário logado no sistema. Ao clicar abrir o dropdown com as opções: Editar Perfil, Personalizar página e Log Out. Se não estiver logado, aparecer a opção de login */
+
+position: absolute;
+width: 133px;
+height: 91px;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 127px;
+height: 85px;
+
+border: 3px solid #2673DD;
+
+
+/* Ellipse */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 12px;
+height: 12px;
+
+background: #FFFFFF;
+border: 3px solid #2673DD;
+
+
+/* Banner com uma mescla das três bandas mais ouvidas */
+
+position: absolute;
+width: 450px;
+height: 56px;
+
+font-family: 'Arial Rounded MT Bold';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Vector <-> Banner com uma mescla das três bandas mais ouvidas */
+
+position: absolute;
+width: 872px;
+height: 77.1px;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 866px;
+height: 71.1px;
+
+border: 3px solid #2673DD;
+
+
+/* Ellipse */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 12px;
+height: 12px;
+
+background: #FFFFFF;
+border: 3px solid #2673DD;
